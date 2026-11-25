@@ -1,0 +1,50 @@
+[
+    {
+        "userId": 1,
+        "userFullname": "Chloe",
+        "userEmail": "jaraweeivy@gmail.com",
+        "userAvartar": "/images/profile_1.jpg",
+        "userRole": "Administrator",
+        "userActive": true
+    },
+
+
+    {
+        "userId": 2,
+        "userFullname": "Bulan",
+        "userEmail": "jaraweeivy@gmail.com",
+        "userAvartar": "/images/profile_2.jpg",
+        "userRole": "User",
+        "userActive": true
+    },
+
+
+    {
+        "userId": 3,
+        "userFullname": "Miko",
+        "userEmail": "jaraweeivy@gmail.com",
+        "userAvartar": "/images/profile_3.jpg",
+        "userRole": "Staff",
+        "userActive": true
+    },
+
+
+    {
+        "userId": 4,
+        "userFullname": "Elise",
+        "userEmail": "jaraweeivy@gmail.com",
+        "userAvartar": "/images/profile_4.jpg",
+        "userRole": "Staff",
+        "userActive": true
+    },
+
+
+    {
+        "userId": 5,
+        "userFullname": "Arcana",
+        "userEmail": "jaraweeivy@gmail.com",
+        "userAvartar": "/images/profile_5.jpg",
+        "userRole": "Administrator",
+        "userActive": true
+    }
+]
